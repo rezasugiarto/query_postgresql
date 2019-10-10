@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'query_postgresql',         
   packages = ['query_postgresql'],   
-  version = '0.1',      
+  version = '0.1.0.1',      
   license='MIT',        
   description = 'Querying using Postgresql made easy',   
   author = 'Reza',                   
