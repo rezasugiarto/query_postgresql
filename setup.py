@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'query_postgresql',         
   packages = ['query_postgresql'],   
-  version = '0.1.0.1',      
+  version = '0.2',      
   license='MIT',        
   description = 'Querying using Postgresql made easy',   
   author = 'Reza',                   
   author_email = 'reza16.sugiarto@gmail.com',      
   url = 'http://github.com/rezasugiarto/query_postgresql',   
-  download_url = 'https://github.com/rezasugiarto/query_postgresql/archive/0.1.0.1.tar.gz',    
+  download_url = 'https://github.com/rezasugiarto/query_postgresql/archive/0.2.tar.gz',    
   keywords = ['postgresql'],   
   install_requires=[           
           'pandas',

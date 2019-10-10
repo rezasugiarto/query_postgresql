@@ -1,7 +1,7 @@
 import psycopg2
 import pandas as pd
 
-class query_postgres:
+class query_postgresql:
     def __init__(self,hostname,username,password,database,port):
         self.hostname=hostname
         self.username=username

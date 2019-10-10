@@ -1,1 +1,1 @@
-import query_postgresql
+from query_postgresql import query_postgresql
