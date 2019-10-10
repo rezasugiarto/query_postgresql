@@ -8,7 +8,7 @@ setup(
   author = 'Reza',                   
   author_email = 'reza16.sugiarto@gmail.com',      
   url = 'http://github.com/rezasugiarto/query_postgresql',   
-  download_url = 'https://github.com/rezasugiarto/query_postgresql/archive/0.1.tar.gz',    
+  download_url = 'https://github.com/rezasugiarto/query_postgresql/archive/0.1.0.1.tar.gz',    
   keywords = ['postgresql'],   
   install_requires=[           
           'pandas',
