@@ -7,7 +7,7 @@ setup(
   description = 'Querying using Postgresql made easy',   
   author = 'Reza',                   
   author_email = 'reza16.sugiarto@gmail.com',      
-  url = https://github.com/rezasugiarto/query_postgresql',   
+  url = 'http://github.com/rezasugiarto/query_postgresql',   
   download_url = 'https://github.com/rezasugiarto/query_postgresql/archive/0.1.tar.gz',    
   keywords = ['postgresql'],   
   install_requires=[           
