@@ -1,0 +1,1 @@
+Query postgresql in python just insert your database credentials
